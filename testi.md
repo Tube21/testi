@@ -2,3 +2,4 @@
 - eläin
 - makaa
 - Kyl tä toimii!
+- kuitti 
